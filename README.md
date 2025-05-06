@@ -41,9 +41,9 @@ To set a new sensitivity in the **“preferences.xml”** file, run **"2 - start
 
 ### Theory
 
-The method that multiplies or divides by 2 is MDV 100%. 
-If you are satisfied with sensitivity in 1 of 2 modes: arcadeMode or sniperMode, the script will make calculations and record the new sensitivity. 
-Manual input will allow you to set any sensitivity for both modes. 
+The method that multiplies or divides by 2 is MDV 100%.  
+If you are satisfied with sensitivity in 1 of 2 modes: arcadeMode or sniperMode, the script will make calculations and record the new sensitivity.  
+Manual input will allow you to set any sensitivity for both modes.  
 This script was created for those cases when a person cannot figure out the manual sensitivity setting on independently.
 
 ## RU
@@ -82,7 +82,7 @@ This script was created for those cases when a person cannot figure out the manu
 
 ### Теория
 
-Метод который умножает или делит на 2 - это MDV 100%. 
-Если вас устраивает чувствительность в 1 из 2 режимов: arcadeMode или sniperMode, то скрипт сделает вычисления и запишет новую чувствительность. 
-Ручной ввод позволит установить любую чувствительность для обоих режимов. 
+Метод который умножает или делит на 2 - это MDV 100%.  
+Если вас устраивает чувствительность в 1 из 2 режимов: arcadeMode или sniperMode, то скрипт сделает вычисления и запишет новую чувствительность.  
+Ручной ввод позволит установить любую чувствительность для обоих режимов.  
 Этот скрипт создан для тех случаев, когда человек не может самостоятельно разобраться в ручной настройке чувствительности.
