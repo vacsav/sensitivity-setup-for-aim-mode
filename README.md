@@ -21,7 +21,7 @@ Automates interaction with the game's configuration file:
 - Unzip
 - Select language
 - Go to .bat files
-- Next:
+- Next: The game must be closed before making edits to **"preferences.xml"**
 
 To look at the current sensitivity values, run the **"show current sensitivity in --preferences.bat"**
 ![showValue_en](assets/images/showValue_en.jpg)
@@ -63,7 +63,7 @@ This script was created for those cases when a person cannot figure out the manu
 - Разархивировать
 - Выбрать язык
 - Перейти к .bat файлам
-- Далее:
+- Далее: Перед внесением изменений в **"preferences.xml"** игра должна быть закрыта
 
 Чтобы посмотреть на текущие значения чувствительности, запустите **"показать текущую чувствительность в --preferences.bat"**
 ![showValue_ru](assets/images/showValue_ru.jpg)
