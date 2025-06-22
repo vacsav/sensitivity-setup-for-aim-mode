@@ -46,6 +46,14 @@ If you are satisfied with sensitivity in 1 of 2 modes: arcadeMode or sniperMode,
 Manual input will allow you to set any sensitivity for both modes.  
 This script was created for those cases when a person cannot figure out the manual sensitivity setting on independently.
 
+### For nerds
+
+- [Conversion method guide. (and other FAQ's)](https://www.mouse-sensitivity.com/forums/topic/4704-conversion-method-guide-and-other-faqs/)
+- [Error Mathematics](https://www.mouse-sensitivity.com/forums/topic/8190-error-mathematics/)
+- [Mouse Sensitivity - Monitor Distance Guide](https://youtu.be/RYCrGAJshvQ)
+- [Mouse Sensitivity](https://www.mouse-sensitivity.com/)
+- [Useful guidelines - WoT; WoT Sensitivity](https://sheet.zohopublic.eu/sheet/published/fzegf41a48bbb4bf2473dbbeb4d24452d3df6)
+
 ## RU
 
 ### Описание
@@ -86,3 +94,11 @@ This script was created for those cases when a person cannot figure out the manu
 Если вас устраивает чувствительность в 1 из 2 режимов: arcadeMode или sniperMode, то скрипт сделает вычисления и запишет новую чувствительность.  
 Ручной ввод позволит установить любую чувствительность для обоих режимов.  
 Этот скрипт создан для тех случаев, когда человек не может самостоятельно разобраться в ручной настройке чувствительности.
+
+### Для ботаников
+
+- [Conversion method guide. (and other FAQ's)](https://www.mouse-sensitivity.com/forums/topic/4704-conversion-method-guide-and-other-faqs/)
+- [Error Mathematics](https://www.mouse-sensitivity.com/forums/topic/8190-error-mathematics/)
+- [Mouse Sensitivity - Monitor Distance Guide](https://youtu.be/RYCrGAJshvQ)
+- [Mouse Sensitivity](https://www.mouse-sensitivity.com/)
+- [Useful guidelines - WoT; WoT Sensitivity](https://sheet.zohopublic.eu/sheet/published/fzegf41a48bbb4bf2473dbbeb4d24452d3df6)
